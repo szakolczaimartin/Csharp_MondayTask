@@ -1,0 +1,6 @@
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\bin\Debug\GenaricList Sort.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\bin\Debug\GenaricList Sort.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\bin\Debug\GenaricList Sort.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\obj\Debug\GenaricList Sort.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\obj\Debug\GenaricList Sort.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\GenaricList Sort\obj\Debug\GenaricList Sort.pdb

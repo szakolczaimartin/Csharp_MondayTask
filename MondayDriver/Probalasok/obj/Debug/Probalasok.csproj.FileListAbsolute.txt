@@ -1,0 +1,6 @@
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\bin\Debug\Probalasok.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\bin\Debug\Probalasok.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\bin\Debug\Probalasok.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\obj\Debug\Probalasok.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\obj\Debug\Probalasok.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\Probalasok\obj\Debug\Probalasok.pdb

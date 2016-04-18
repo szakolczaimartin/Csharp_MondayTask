@@ -1,0 +1,5 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\DictionaryCollection\bin\Debug\DictionaryCollection.exe.config
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\DictionaryCollection\bin\Debug\DictionaryCollection.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\DictionaryCollection\bin\Debug\DictionaryCollection.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\DictionaryCollection\obj\Debug\DictionaryCollection.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\DictionaryCollection\obj\Debug\DictionaryCollection.pdb

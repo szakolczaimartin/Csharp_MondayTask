@@ -1,0 +1,6 @@
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\bin\Debug\LinkeldListCollection.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\bin\Debug\LinkeldListCollection.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\bin\Debug\LinkeldListCollection.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\obj\Debug\LinkeldListCollection.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\obj\Debug\LinkeldListCollection.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayCollections\LinkeldListCollection\obj\Debug\LinkeldListCollection.pdb

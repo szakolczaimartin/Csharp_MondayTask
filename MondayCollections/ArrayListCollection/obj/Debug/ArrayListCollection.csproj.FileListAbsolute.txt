@@ -1,0 +1,6 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\bin\Debug\ArrayListCollection.exe.config
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\bin\Debug\ArrayListCollection.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\bin\Debug\ArrayListCollection.pdb
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\obj\Debug\ArrayListCollection.csprojResolveAssemblyReference.cache
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\obj\Debug\ArrayListCollection.exe
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayCollections\ArrayListCollection\obj\Debug\ArrayListCollection.pdb
