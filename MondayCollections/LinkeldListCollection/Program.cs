@@ -22,6 +22,29 @@ namespace LinkeldListCollection
                 Console.WriteLine(item);
             }
 
+            Console.WriteLine( );
+
+            LinkedList<int> linkedInt = new LinkedList<int>();
+
+            linkedInt.AddFirst(1);
+            linkedInt.AddFirst(2);
+            linkedInt.AddFirst(3);
+            linkedInt.AddFirst(4);
+
+            foreach (var item in linkedInt)
+            {
+                Console.WriteLine(item);
+            }
+
+            LinkedList<bool> linkedBool = new LinkedList<bool>();
+
+            linkedBool.AddFirst(true);
+           
+            foreach (var item in linkedBool)
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadLine();
         }
     }
